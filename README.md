@@ -48,20 +48,13 @@ https://github.com/tudelft-iv/occluded_vehicle_acoustic_detection
   
 
 
-### SA2 Environment
-
-
-### SB1 Environment
-
 ---
 
 
 ## ARIL Dataset
 
 This dataset contained sound recordings file in the form of .wav and ground truth in the form of .xlsx. 
-
-The gap between the ARmarkers(box) is 4m. But the interval between the middle and right ARmarkers of Site 2 is 3m.
-
+Our data shows the exact location of the target vehicle through the BEV camera.
 
 A detailed description is provided in the paper
 
@@ -159,9 +152,42 @@ python rmse.py
 ## Azimuth
 DoA response map
 <p align="center">
-  <img src="https://github.com/mingujeon/Acoustic-Recognition-based-Invisible-target-Localization/assets/39543006/2d6d7a80-3ec9-4ee6-964e-4319bf061c4c" alt="azimuth" width="500" height="400">
+  <img src="https://github.com/mingujeon/Acoustic-Recognition-based-Invisible-target-Localization/assets/39543006/2d6d7a80-3ec9-4ee6-964e-4319bf061c4c" alt="azimuth" width="400">
 </p>
 
+## SA2 Result
+
+<table align="center">
+  <tr>
+    <td>
+      <p align="center">
+        <img src="https://github.com/mingujeon/Acoustic-Recognition-based-Invisible-target-Localization/assets/39543006/5c6a9598-b4dd-41d0-9029-af2ceb15330d" alt="SA2 left" width="500">
+      </p>
+    </td>
+    <td>
+      <p align="center">
+        <img src="https://github.com/mingujeon/Acoustic-Recognition-based-Invisible-target-Localization/assets/39543006/f58eca7a-11d2-4f59-b32f-f51556c1fbb8" alt="SA2 right" width="500">
+      </p>
+    </td>
+  </tr>
+</table>
+
+## SB1 Result
+
+<table align="center">
+  <tr>
+    <td>
+      <p align="center">
+        <img src="https://github.com/mingujeon/Acoustic-Recognition-based-Invisible-target-Localization/assets/39543006/2fa88987-a506-4355-955e-2645863ab878" alt="SB1 left" width="500">
+      </p>
+    </td>
+    <td>
+      <p align="center">
+        <img src="https://github.com/mingujeon/Acoustic-Recognition-based-Invisible-target-Localization/assets/39543006/e92a519d-44ca-4b3f-aed1-1b235ca10b0a" alt="SB1 right" width="500">
+      </p>
+    </td>
+  </tr>
+</table>
 
 ## Site1 Result
 
