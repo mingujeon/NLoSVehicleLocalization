@@ -265,7 +265,7 @@ Autonomous Robot Intelligence Lab, SNU
 
 
 Mingu Jeon<br>
-Cho Jae-Kyung <br>
+Jae-Kyung Cho<br>
 Hee-Yeun Kim<br>
 Byeonggyu Park<br>
 Seung-Woo Seo<br>
