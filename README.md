@@ -1,8 +1,6 @@
 # Non-Line-of-Sight Vehicle Localization based on Sound
 
-## Particle result
-
-### T Junction with wall
+### Site1 particle result (T Junction with wall)
 
 <table align="center">
   <tr>
@@ -19,7 +17,7 @@
   </tr>
 </table>
 
-### T Junction without wall
+### Site2 particle result (T Junction without wall)
 
 <table align="center">
   <tr>
@@ -101,6 +99,8 @@ A detailed description is provided in the paper
 
 ### Site1 Environment
 
+- T junction with wall
+
 <table align="center">
   <tr>
     <td>
@@ -118,6 +118,8 @@ A detailed description is provided in the paper
 
 ### Site2 Environment
 
+- T junction without wall
+  
 <table align="center">
   <tr>
     <td>
