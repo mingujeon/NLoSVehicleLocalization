@@ -90,9 +90,8 @@ https://github.com/tudelft-iv/occluded_vehicle_acoustic_detection
   
 
 
----
 
-
+<!--
 ## ARIL Dataset
 
 This dataset contained sound recordings file in the form of .wav and ground truth in the form of .xlsx. 
@@ -137,7 +136,7 @@ A detailed description is provided in the paper
     </td>
   </tr>
 </table>
-
+-->
 ---
 
 <!--
@@ -195,13 +194,13 @@ python rmse.py
 
 
 ![image](https://github.com/mingujeon/Acoustic-Recognition-based-Invisible-target-Localization/assets/39543006/b52c46c6-2115-455b-bdc2-03f8510f548d)
-
+<!--
 ## Azimuth
 DoA response map
 <p align="center">
   <img src="https://github.com/mingujeon/Acoustic-Recognition-based-Invisible-target-Localization/assets/39543006/2d6d7a80-3ec9-4ee6-964e-4319bf061c4c" alt="azimuth" width="400">
 </p>
-
+-->
 ## SA2 Result
 
 <table align="center">
