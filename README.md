@@ -78,6 +78,7 @@ ${ROOT}
 ```
 ---
 -->
+<!--
 ## OVAD Dataset
 
 The dataset is from the reference study. It is the github repository of the paper "Hearing What You Cannot See: Acoustic Vehicle Detection Around Corners". The details are in the below link.
@@ -87,7 +88,7 @@ https://github.com/tudelft-iv/occluded_vehicle_acoustic_detection
 - *.csv file is the result of SRP-PHAT algorithm
 - *.wav file is a sound recording file
 - ground_truth.txt file is a ground truth file in the dataset of “Hearing What You Cannot See: Acoustic Vehicle Detection Around Corners”
-  
+-->
 
 
 
@@ -190,7 +191,7 @@ Get the rmse
 python rmse.py
 ```
 -->
-## Result images
+## qualitative result
 
 
 ![image](https://github.com/mingujeon/Acoustic-Recognition-based-Invisible-target-Localization/assets/39543006/b52c46c6-2115-455b-bdc2-03f8510f548d)
@@ -201,41 +202,8 @@ DoA response map
   <img src="https://github.com/mingujeon/Acoustic-Recognition-based-Invisible-target-Localization/assets/39543006/2d6d7a80-3ec9-4ee6-964e-4319bf061c4c" alt="azimuth" width="400">
 </p>
 -->
-## SA2 Result
 
-<table align="center">
-  <tr>
-    <td>
-      <p align="center">
-        <img src="https://github.com/mingujeon/Acoustic-Recognition-based-Invisible-target-Localization/assets/39543006/5c6a9598-b4dd-41d0-9029-af2ceb15330d" alt="SA2 left" width="380">
-      </p>
-    </td>
-    <td>
-      <p align="center">
-        <img src="https://github.com/mingujeon/Acoustic-Recognition-based-Invisible-target-Localization/assets/39543006/f58eca7a-11d2-4f59-b32f-f51556c1fbb8" alt="SA2 right" width="380">
-      </p>
-    </td>
-  </tr>
-</table>
-
-## SB1 Result
-
-<table align="center">
-  <tr>
-    <td>
-      <p align="center">
-        <img src="https://github.com/mingujeon/Acoustic-Recognition-based-Invisible-target-Localization/assets/39543006/2fa88987-a506-4355-955e-2645863ab878" alt="SB1 left" width="380">
-      </p>
-    </td>
-    <td>
-      <p align="center">
-        <img src="https://github.com/mingujeon/Acoustic-Recognition-based-Invisible-target-Localization/assets/39543006/e92a519d-44ca-4b3f-aed1-1b235ca10b0a" alt="SB1 right" width="380">
-      </p>
-    </td>
-  </tr>
-</table>
-
-## Site1 Result
+## quantitative results in ARIL dataset
 
 <table align="center">
   <tr>
@@ -252,8 +220,6 @@ DoA response map
   </tr>
 </table>
 
-## Site2 Result
-
 <table align="center">
   <tr>
     <td>
@@ -268,6 +234,39 @@ DoA response map
     </td>
   </tr>
 </table>
+
+### quantitative results in OVAD dataset
+
+<table align="center">
+  <tr>
+    <td>
+      <p align="center">
+        <img src="https://github.com/mingujeon/Acoustic-Recognition-based-Invisible-target-Localization/assets/39543006/5c6a9598-b4dd-41d0-9029-af2ceb15330d" alt="SA2 left" width="380">
+      </p>
+    </td>
+    <td>
+      <p align="center">
+        <img src="https://github.com/mingujeon/Acoustic-Recognition-based-Invisible-target-Localization/assets/39543006/f58eca7a-11d2-4f59-b32f-f51556c1fbb8" alt="SA2 right" width="380">
+      </p>
+    </td>
+  </tr>
+</table>
+
+<table align="center">
+  <tr>
+    <td>
+      <p align="center">
+        <img src="https://github.com/mingujeon/Acoustic-Recognition-based-Invisible-target-Localization/assets/39543006/2fa88987-a506-4355-955e-2645863ab878" alt="SB1 left" width="380">
+      </p>
+    </td>
+    <td>
+      <p align="center">
+        <img src="https://github.com/mingujeon/Acoustic-Recognition-based-Invisible-target-Localization/assets/39543006/e92a519d-44ca-4b3f-aed1-1b235ca10b0a" alt="SB1 right" width="380">
+      </p>
+    </td>
+  </tr>
+</table>
+
 
 ## Authors
 
