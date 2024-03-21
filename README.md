@@ -36,7 +36,7 @@
 
 ---
 
-
+<!--
 ## Introduction
 
 This is the repository of the paper “Non-Line-of-Sight Vehicle Localization based on Sound”. The experimental data, code, and the result images are contained.
@@ -57,6 +57,8 @@ Comparison of possible paths of sound regarding the position of NLoS vehicle and
 
 ---
 
+
+
 ## Folder Structure (Recommended)
 
 ```
@@ -75,6 +77,7 @@ ${ROOT}
 └── Graph
 ```
 ---
+-->
 ## OVAD Dataset
 
 The dataset is from the reference study. It is the github repository of the paper "Hearing What You Cannot See: Acoustic Vehicle Detection Around Corners". The details are in the below link.
@@ -137,7 +140,7 @@ A detailed description is provided in the paper
 
 ---
 
-
+<!--
 ## How to run the code
 
 Install python libraries
@@ -187,7 +190,7 @@ Get the rmse
 ```bash
 python rmse.py
 ```
-
+-->
 ## Result images
 
 
