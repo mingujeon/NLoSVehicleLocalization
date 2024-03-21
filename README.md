@@ -34,7 +34,6 @@
   </tr>
 </table>
 
----
 
 <!--
 ## Introduction
@@ -191,7 +190,7 @@ Get the rmse
 python rmse.py
 ```
 -->
-## qualitative result
+## Qualitative result
 
 
 ![image](https://github.com/mingujeon/Acoustic-Recognition-based-Invisible-target-Localization/assets/39543006/b52c46c6-2115-455b-bdc2-03f8510f548d)
@@ -203,8 +202,15 @@ DoA response map
 </p>
 -->
 
-## quantitative results in ARIL dataset
+## Quantitative results in ARIL dataset
 
+
+|ARIL|Left|Right|
+|------|---|---|
+|T Junction with wall|<img src="https://github.com/mingujeon/Acoustic-Recognition-based-Invisible-target-Localization/assets/39543006/9e40e1a7-4c64-4198-ba5e-45c68cda889b" alt="Site1 Left" width="380">|<img src="https://github.com/mingujeon/Acoustic-Recognition-based-Invisible-target-Localization/assets/39543006/29481589-1067-4854-86fc-6fe07ff8215b" alt="Site1 Right" width="380">|
+|T Junction without wall|<img src="https://github.com/mingujeon/Acoustic-Recognition-based-Invisible-target-Localization/assets/39543006/7ec6ff91-d87a-44c5-8bc3-2030d4969bf2" alt="Site2 Left" width="380">|<img src="https://github.com/mingujeon/Acoustic-Recognition-based-Invisible-target-Localization/assets/39543006/afe28ca7-e7bb-452a-a983-e25402e27a87" alt="Site2 Right" width="380">|
+
+<!--
 <table align="center">
   <tr>
     <td>
@@ -218,25 +224,27 @@ DoA response map
       </p>
     </td>
   </tr>
-</table>
-
-<table align="center">
-  <tr>
-    <td>
+  <td>
       <p align="center">
         <img src="https://github.com/mingujeon/Acoustic-Recognition-based-Invisible-target-Localization/assets/39543006/7ec6ff91-d87a-44c5-8bc3-2030d4969bf2" alt="Site2 Left" width="380">
       </p>
     </td>
-    <td>
+  <td>
       <p align="center">
         <img src="https://github.com/mingujeon/Acoustic-Recognition-based-Invisible-target-Localization/assets/39543006/afe28ca7-e7bb-452a-a983-e25402e27a87" alt="Site2 Right" width="380">
       </p>
     </td>
-  </tr>
 </table>
+-->
 
-### quantitative results in OVAD dataset
+## Quantitative results in OVAD dataset
 
+|OVAD|Left|Right|
+|------|---|---|
+|T Junction with wall|<img src="https://github.com/mingujeon/Acoustic-Recognition-based-Invisible-target-Localization/assets/39543006/5c6a9598-b4dd-41d0-9029-af2ceb15330d" alt="SA2 left" width="380">|<img src="https://github.com/mingujeon/Acoustic-Recognition-based-Invisible-target-Localization/assets/39543006/f58eca7a-11d2-4f59-b32f-f51556c1fbb8" alt="SA2 right" width="380">|
+|T Junction without wall|<img src="https://github.com/mingujeon/Acoustic-Recognition-based-Invisible-target-Localization/assets/39543006/2fa88987-a506-4355-955e-2645863ab878" alt="SB1 left" width="380">|<img src="https://github.com/mingujeon/Acoustic-Recognition-based-Invisible-target-Localization/assets/39543006/e92a519d-44ca-4b3f-aed1-1b235ca10b0a" alt="SB1 right" width="380">|
+
+<!--
 <table align="center">
   <tr>
     <td>
@@ -250,23 +258,18 @@ DoA response map
       </p>
     </td>
   </tr>
-</table>
-
-<table align="center">
-  <tr>
-    <td>
+  <td>
       <p align="center">
         <img src="https://github.com/mingujeon/Acoustic-Recognition-based-Invisible-target-Localization/assets/39543006/2fa88987-a506-4355-955e-2645863ab878" alt="SB1 left" width="380">
       </p>
     </td>
-    <td>
+  <td>
       <p align="center">
         <img src="https://github.com/mingujeon/Acoustic-Recognition-based-Invisible-target-Localization/assets/39543006/e92a519d-44ca-4b3f-aed1-1b235ca10b0a" alt="SB1 right" width="380">
       </p>
     </td>
-  </tr>
 </table>
-
+-->
 
 ## Authors
 
