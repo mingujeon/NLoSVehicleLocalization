@@ -36,25 +36,6 @@
 </table>
 
 
-
-### Site2 particle result (T Junction without wall)
-
-<table align="center">
-  <tr>
-    <td>
-      <p align="center">
-        <img src="https://github.com/mingujeon/Acoustic-Recognition-based-Invisible-target-Localization/assets/39543006/5888827e-c228-48ec-be3d-c38f7cbb67d3" width="380">
-      </p>
-    </td>
-    <td>
-      <p align="center">
-        <img src="https://github.com/mingujeon/Acoustic-Recognition-based-Invisible-target-Localization/assets/39543006/e3c022a6-21dc-441c-8b9f-bf0fc36a7b6e" width="380">
-      </p>
-    </td>
-  </tr>
-</table>
-
-
 <!--
 ## Introduction
 
