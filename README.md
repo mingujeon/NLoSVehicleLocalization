@@ -2,7 +2,7 @@
 # Non-Line-of-Sight Vehicle Localization based on Sound
 
 
-### Site1 particle path (T Junction with wall)
+### SiteA particle path (T Junction with wall)
 <table align="center">
   <tr>
     <td>
@@ -19,7 +19,7 @@
 </table>
 
 
-### Site2 particle path (T Junction without wall)
+### SiteB particle path (T Junction without wall)
 <table align="center">
   <tr>
     <td>
@@ -30,6 +30,70 @@
     <td>
       <p align="center">
         <img src="https://github.com/mingujeon/NLoSVehicleLocalization/assets/149562819/15c9a93c-e446-4615-8ebe-c18703ec5086" alt="Site2 right particle path" width="380">
+      </p>
+    </td>
+  </tr>
+</table>
+
+### SiteA Left particle and azimuth (T Junction with wall)
+<table align="center">
+  <tr>
+    <td>
+      <p align="center">
+        <img src="https://github.com/mingujeon/NLoSVehicleLocalization/assets/39543006/a3575085-310d-4198-a701-db318534346f" alt="Site1 left particle path" width="380">
+      </p>
+    </td>
+    <td>
+      <p align="center">
+        <img src="https://github.com/mingujeon/NLoSVehicleLocalization/assets/39543006/14406aba-1c57-4863-9195-ad526aca25f3" alt="Site1 right particle path" width="380">
+      </p>
+    </td>
+  </tr>
+</table>
+
+### SiteA Right particle and azimuth (T Junction with wall)
+<table align="center">
+  <tr>
+    <td>
+      <p align="center">
+        <img src="https://github.com/mingujeon/NLoSVehicleLocalization/assets/39543006/b7eb9793-ef76-4f02-bfed-6cb1173ee482" alt="Site1 left particle path" width="380">
+      </p>
+    </td>
+    <td>
+      <p align="center">
+        <img src="https://github.com/mingujeon/NLoSVehicleLocalization/assets/39543006/c7515452-bb6a-4894-9879-53a0ce474dc0" alt="Site1 right particle path" width="380">
+      </p>
+    </td>
+  </tr>
+</table>
+
+### SiteB Left particle and azimuth (T Junction with wall)
+<table align="center">
+  <tr>
+    <td>
+      <p align="center">
+        <img src="https://github.com/mingujeon/NLoSVehicleLocalization/assets/39543006/c65dc8cc-4413-4b02-8769-e7e8b078d41e" alt="Site1 left particle path" width="380">
+      </p>
+    </td>
+    <td>
+      <p align="center">
+        <img src="https://github.com/mingujeon/NLoSVehicleLocalization/assets/39543006/75a2cb32-c4d6-4c44-804b-2d1c9e11e005" alt="Site1 right particle path" width="380">
+      </p>
+    </td>
+  </tr>
+</table>
+
+### SiteB Right particle and azimuth (T Junction with wall)
+<table align="center">
+  <tr>
+    <td>
+      <p align="center">
+        <img src="https://github.com/mingujeon/NLoSVehicleLocalization/assets/39543006/8ca67457-c720-403a-afa4-842b918578ab" alt="Site1 left particle path" width="380">
+      </p>
+    </td>
+    <td>
+      <p align="center">
+        <img src="https://github.com/mingujeon/NLoSVehicleLocalization/assets/39543006/8d5b1eca-3091-4ff5-b961-e94b0c08e853" alt="Site1 right particle path" width="380">
       </p>
     </td>
   </tr>
