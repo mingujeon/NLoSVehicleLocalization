@@ -29,7 +29,7 @@ def main(args):
 
     weight_rate = [0,0,1,0.8]
 
-    for N_PARTICLE in [3]:  
+    for N_PARTICLE in [10, 25, 50, 100]:  
         try:
             os.system("rm -rf tmp")
         except:
