@@ -129,7 +129,8 @@ def main(args):
 
         # save result
         dt = dt[0]
-        gt_data = pd.read_excel("gt/Site1_L_10_Trial9.xlsx")
+        # gt_data = pd.read_excel("gt/Site1_L_10_Trial9.xlsx")
+        gt_data = pd.read_excel(args.input[:-3] + 'xlsx') # gt path
         gt_times = gt_data['time'].values
         gt_x_positions = gt_data['ground_truth'].values
         gt = np.column_stack((gt_times, gt_x_positions))
