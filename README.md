@@ -304,6 +304,29 @@ DoA response map
 </table>
 -->
 
+## How to run the code
+
+SRP-PHAT algorithm running first
+```bash
+sh featureExtract.sh
+```
+
+For localization test
+```bash
+sh localization_test.sh
+```
+
+For making azimuth map
+```bash
+python azimuth.py
+```
+
+For calculating rmse
+```bash
+python rmse.py
+```
+
+
 ## Authors
 
 copyright<br>
