@@ -319,7 +319,7 @@ For making azimuth map
 python azimuth.py
 ```
 
-For calculating rmse
+For calculating RMSE
 ```bash
 python rmse.py
 ```
