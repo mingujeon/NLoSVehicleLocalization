@@ -301,6 +301,28 @@ DoA response map
     </td>
 </table>
 -->
+---
+
+## Dataset
+
+The dataset is available at [here](https://drive.google.com/file/d/18vrUqzzAiZJDQ3EGjRWhsiUgrsfE3h_X/view?usp=drive_link).
+
+
+## Folder Structure (Recommended)
+
+```
+${ROOT}
+└── cls_features/
+    └── SA
+      └── [case name]
+        └── .wav # sound file
+        └── .csv # result of SRP-PHAT algorithm
+        └── ground_truth.xlsx # ground_truth
+    └── SB
+└── config
+└── utils
+```
+---
 
 ## How to run the code
 
@@ -323,10 +345,6 @@ For calculating RMSE
 ```bash
 python rmse.py
 ```
-
-## Dataset
-
-The dataset is available at [here](https://drive.google.com/file/d/18vrUqzzAiZJDQ3EGjRWhsiUgrsfE3h_X/view?usp=drive_link).
 
 ## Authors
 
