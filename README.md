@@ -305,21 +305,27 @@ DoA response map
 
 ## Dataset
 
+The Acoustic Recognition based Invisible-target Localization (ARIL) dataset is procured to advance the study of a model dedicated to the detection and localization of Non-Line-of-Sight (NLoS) vehicle. The dataset is centered on identifying NLoS vehicles, and encompasses variations in velocity (5, 10, 15, 20 km/h), the direction of travel for NLoS vehicles (left, right), and different spatial arrangements (T-Junction configurations, with and without opposite-side wall).
+
 The dataset is available at [here](https://drive.google.com/file/d/18vrUqzzAiZJDQ3EGjRWhsiUgrsfE3h_X/view?usp=drive_link).
+
+
 
 
 ## Folder Structure (Recommended)
 
 ```
 ${ROOT}
-└── cls_features/
-    └── SA
-      └── [case name]
-        └── .wav # sound file
-        └── .csv # result of SRP-PHAT algorithm
-        └── ground_truth.xlsx # ground_truth
-    └── SB
-└── config
+├── cls_features                      # Dataset
+|    ├── SA                           # T-Junction with a wall
+|    |  ├── left                      # Direction of travel for NLoS vehicle
+|    |  |  ├── [Scenario name]
+|    |  |  | ├── .wav                 # sound file
+|    |  |  | ├── .csv                 # result of SRP-PHAT algorithm
+|    |  |  | └── [Scenario name].xlsx # ground_truth
+|    |  └── right  
+|    └── SB                           # T-Junction without a wall
+├── config
 └── utils
 ```
 ---
