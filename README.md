@@ -316,15 +316,15 @@ The dataset is available at [here](https://drive.google.com/file/d/18vrUqzzAiZJD
 
 ```
 ${ROOT}
-├── cls_features                      # Dataset
-|    ├── SA                           # T-Junction with a wall
-|    |  ├── left                      # Direction of travel for NLoS vehicle
+├── cls_features                # Dataset
+|    ├── SA                     # T-Junction with a wall
+|    |  ├── left                # Direction of travel for NLoS vehicle
 |    |  |  ├── [Scenario name]
-|    |  |  | ├── .wav                 # sound file
-|    |  |  | ├── .csv                 # result of SRP-PHAT algorithm
-|    |  |  | └── [Scenario name].xlsx # ground_truth
+|    |  |  | ├── .wav           # sound file
+|    |  |  | ├── .csv           # result of SRP-PHAT algorithm
+|    |  |  | └── .xlsx          # ground_truth
 |    |  └── right  
-|    └── SB                           # T-Junction without a wall
+|    └── SB                     # T-Junction without a wall
 ├── config
 └── utils
 ```
