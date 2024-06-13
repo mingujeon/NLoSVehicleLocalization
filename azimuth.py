@@ -3,7 +3,7 @@ import numpy as np
 import pandas as pd
 import os
 
-path = 'cls_features/SA/Wall_paint_L/Color_Left_Test/Site1_L_10_Trial9.csv' # sound feature path
+path = 'ARILDataset/SA/Site1_L/Site1_L_10_Trial9/Site1_L_10_Trial9.csv' # sound feature path
 
 df = pd.read_csv(path)
 
