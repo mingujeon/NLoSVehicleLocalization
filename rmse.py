@@ -8,7 +8,7 @@ gt_df = pd.read_excel(excel_file_path)
 gt = list(gt_df['ground_truth'])
 
 for i in [10,25,50,100] :
-    pkl_file_path = 'cls_features/SA/Site1_R/Site1_R_10_Trial6/avg_Tracking_' +str(i)+ '.pkl'
+    pkl_file_path = 'ARILDataset/SA/Site1_L/Site1_L_10_Trial9/avg_Tracking_' +str(i)+ '.pkl'
     with open(pkl_file_path, 'rb') as f:
         pred_data = pickle.load(f)
 
