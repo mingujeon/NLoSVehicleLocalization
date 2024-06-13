@@ -314,7 +314,7 @@ The dataset is available at [here](https://drive.google.com/file/d/18vrUqzzAiZJD
 
 ```
 ${ROOT}
-├── cls_features                # Dataset
+├── ARILDataset                 # Dataset
 |    ├── SA                     # T-Junction with a wall
 |    |  ├── left                # Direction of travel for NLoS vehicle
 |    |  |  ├── [Scenario name]
