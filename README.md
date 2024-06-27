@@ -22,12 +22,12 @@
   <tr>
     <td>
       <p align="center">
-        <img src="https://github.com/mingujeon/NLoSVehicleLocalization/assets/39543006/b7eb9793-ef76-4f02-bfed-6cb1173ee482" alt="Site1 left particle path" width="380">
+        <img src="https://github.com/lavrenkang/lavren/blob/main/Site1_R_10_Trial6_100_particle_1.gif" alt="Site1 left particle path" width="380">
       </p>
     </td>
     <td>
       <p align="center">
-        <img src="https://github.com/mingujeon/NLoSVehicleLocalization/assets/39543006/c7515452-bb6a-4894-9879-53a0ce474dc0" alt="Site1 right particle path" width="380">
+        <img src="https://github.com/lavrenkang/lavren/blob/main/Site1_R_10_Trial6_100_path_1.gif" alt="Site1 right particle path" width="380">
       </p>
     </td>
   </tr>
