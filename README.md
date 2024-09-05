@@ -305,12 +305,12 @@ DoA response map
 
 ## Dataset
 
-The dataset is available at [here](https://drive.google.com/file/d/1-9Tv16Hji6wQpGzqAAYPGChETyTXOA-d/view?usp=sharing).
+The dataset is available at [here](https://arisnu.squarespace.com/datasets).
 
 
 
 
-## Folder Structure (Recommended)
+## Directory Structure (Recommended)
 
 ```
 ${ROOT}
